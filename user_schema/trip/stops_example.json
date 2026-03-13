@@ -1,0 +1,125 @@
+{
+  "stops": [
+    {
+      "Name": "Grand Central Terminal",
+      "Address": {
+        "Lat": 40.7533582,
+        "Lon": -73.9768041,
+        "Street": "89 East 42nd Street",
+        "City": "New York",
+        "State": "NY",
+        "Zip": "10017",
+        "PlaceName": "Grand Central Terminal",
+        "FormattedAddress": "89 E 42nd St, New York, NY 10017, USA"
+      },
+      "ArrivalTimeInMinutes": 720,
+      "DepartureTimeInMinutes": 720,
+      "DurationAtStopInMinutes": 0,
+      "TransportToNextStop": 0,
+      "TravelTimeToNextStop": 12,
+      "TransitCost": 0
+    },
+    {
+      "Name": "Nintendo NEW YORK",
+      "Address": {
+        "Lat": 40.7580022,
+        "Lon": -73.9794385,
+        "Street": "10 Rockefeller Plaza",
+        "City": "New York",
+        "State": "NY",
+        "Zip": "10020",
+        "PlaceName": "Nintendo NEW YORK",
+        "FormattedAddress": "10 Rockefeller Plaza, New York, NY 10020, USA"
+      },
+      "ArrivalTimeInMinutes": 732,
+      "DepartureTimeInMinutes": 767,
+      "DurationAtStopInMinutes": 35,
+      "TransportToNextStop": 0,
+      "TravelTimeToNextStop": 16,
+      "TransitCost": 0
+    },
+    {
+      "Name": "Dave & Buster's New York City - Times Square",
+      "Address": {
+        "Lat": 40.7564324,
+        "Lon": -73.9888326,
+        "Street": "234 West 42nd Street",
+        "City": "New York",
+        "State": "NY",
+        "Zip": "10036",
+        "PlaceName": "Dave & Buster's New York City - Times Square",
+        "FormattedAddress": "234 W 42nd St 3rd Floor, New York, NY 10036, USA"
+      },
+      "ArrivalTimeInMinutes": 783,
+      "DepartureTimeInMinutes": 818,
+      "DurationAtStopInMinutes": 35,
+      "TransportToNextStop": 0,
+      "TravelTimeToNextStop": 20,
+      "TransitCost": 0
+    },
+    {
+      "Name": "The Union League Club",
+      "Address": {
+        "Lat": 40.749013399999995,
+        "Lon": -73.98047160000002,
+        "Street": "38 East 37th Street",
+        "City": "New York",
+        "State": "NY",
+        "Zip": "10016",
+        "PlaceName": "The Union League Club",
+        "FormattedAddress": "38 E 37th St, New York, NY 10016, USA"
+      },
+      "ArrivalTimeInMinutes": 838,
+      "DepartureTimeInMinutes": 873,
+      "DurationAtStopInMinutes": 35,
+      "TransportToNextStop": 0,
+      "TravelTimeToNextStop": 14,
+      "TransitCost": 0
+    },
+    {
+      "Name": "The Tusk Bar",
+      "Address": {
+        "Lat": 40.7439469,
+        "Lon": -73.98697440000001,
+        "Street": "7 East 27th Street",
+        "City": "New York",
+        "State": "NY",
+        "Zip": "10016",
+        "PlaceName": "The Tusk Bar",
+        "FormattedAddress": "7 E 27th St, New York, NY 10016, USA"
+      },
+      "ArrivalTimeInMinutes": 887,
+      "DepartureTimeInMinutes": 922,
+      "DurationAtStopInMinutes": 35,
+      "TransportToNextStop": 2,
+      "TravelTimeToNextStop": 9,
+      "TransitCost": 300
+    },
+    {
+      "Name": "TAO Downtown Restaurant",
+      "Address": {
+        "Lat": 40.7425376,
+        "Lon": -74.0038464,
+        "Street": "92 9th Avenue",
+        "City": "New York",
+        "State": "NY",
+        "Zip": "10011",
+        "PlaceName": "TAO Downtown Restaurant",
+        "FormattedAddress": "92 9th Ave, New York, NY 10011, USA"
+      },
+      "ArrivalTimeInMinutes": 931,
+      "DepartureTimeInMinutes": 966,
+      "DurationAtStopInMinutes": 35,
+      "TransportToNextStop": 0,
+      "TravelTimeToNextStop": 0,
+      "TransitCost": 0
+    }
+  ],
+  "DroppedStops": [],
+  "TotalTimeInMinutes": 71,
+  "TotalTransitCostInCents": 300,
+  "TotalCostInCents": 369,
+  "StartTimeInMinutes": 720,
+  "EndTimeInMinutes": 966,
+  "HasEndPoint": false
+}
