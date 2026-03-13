@@ -121,5 +121,5 @@
   "TotalCostInCents": 369,
   "StartTimeInMinutes": 720,
   "EndTimeInMinutes": 966,
-  "HasEndPoint": false
+  "HasExitPoint": false
 }
