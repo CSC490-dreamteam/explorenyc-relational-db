@@ -12,114 +12,221 @@
         "PlaceName": "Grand Central Terminal",
         "FormattedAddress": "89 E 42nd St, New York, NY 10017, USA"
       },
-      "ArrivalTimeInMinutes": 720,
-      "DepartureTimeInMinutes": 720,
+      "ArrivalTimeInMinutes": 668,
+      "DepartureTimeInMinutes": 668,
       "DurationAtStopInMinutes": 0,
-      "TransportToNextStop": 0,
-      "TravelTimeToNextStop": 12,
-      "TransitCost": 0
+      "Legs": [
+        {
+          "TransportType": 0,
+          "TravelTimes": 10,
+          "TransitCosts": 0,
+          "Polylines": [
+            "ctvwFrsobMmCeBm@a@_FgDsAlEK^@RcBkAITKIKGa@YMGw@i@KGKGqA_AQIKIKGmAy@YQIGIEIVoA}@"
+          ]
+        }
+      ]
     },
     {
-      "Name": "Nintendo NEW YORK",
+      "Name": "Bonobos",
       "Address": {
-        "Lat": 40.7580022,
-        "Lon": -73.9794385,
-        "Street": "10 Rockefeller Plaza",
+        "Lat": 40.759029999999996,
+        "Lon": -73.9750122,
+        "Street": "488 Madison Avenue",
         "City": "New York",
         "State": "NY",
-        "Zip": "10020",
-        "PlaceName": "Nintendo NEW YORK",
-        "FormattedAddress": "10 Rockefeller Plaza, New York, NY 10020, USA"
+        "Zip": "10022",
+        "PlaceName": "Bonobos",
+        "FormattedAddress": "488 Madison Ave Ste 99, New York, NY 10022, USA"
       },
-      "ArrivalTimeInMinutes": 732,
-      "DepartureTimeInMinutes": 767,
-      "DurationAtStopInMinutes": 35,
-      "TransportToNextStop": 0,
-      "TravelTimeToNextStop": 16,
-      "TransitCost": 0
+      "ArrivalTimeInMinutes": 677,
+      "DepartureTimeInMinutes": 737,
+      "DurationAtStopInMinutes": 60,
+      "Legs": [
+        {
+          "TransportType": 0,
+          "TravelTimes": 15,
+          "TransitCosts": 0,
+          "Polylines": [
+            "uvwwFdfobMnA|@}@tCs@rBCFIVITyFnQKZJHJFhAt@??HDZTLH~@l@p@b@HFdBjAJFJFhAt@ZRJHJFdBhAJFLH`BhAJFJFKXs@~BwCfJ"
+          ]
+        }
+      ]
     },
     {
-      "Name": "Dave & Buster's New York City - Times Square",
+      "Name": "McDonald's",
       "Address": {
-        "Lat": 40.7564324,
-        "Lon": -73.9888326,
-        "Street": "234 West 42nd Street",
+        "Lat": 40.7577297,
+        "Lon": -73.9853627,
+        "Street": "1528 Broadway Times Square",
         "City": "New York",
         "State": "NY",
         "Zip": "10036",
-        "PlaceName": "Dave & Buster's New York City - Times Square",
-        "FormattedAddress": "234 W 42nd St 3rd Floor, New York, NY 10036, USA"
+        "PlaceName": "McDonald's",
+        "FormattedAddress": "1528 Broadway Times Square, New York, NY 10036, USA"
       },
-      "ArrivalTimeInMinutes": 783,
-      "DepartureTimeInMinutes": 818,
-      "DurationAtStopInMinutes": 35,
-      "TransportToNextStop": 0,
-      "TravelTimeToNextStop": 20,
-      "TransitCost": 0
+      "ArrivalTimeInMinutes": 751,
+      "DepartureTimeInMinutes": 850,
+      "DurationAtStopInMinutes": 99,
+      "Legs": [
+        {
+          "TransportType": 0,
+          "TravelTimes": 4,
+          "TransitCosts": 0,
+          "Polylines": [
+            "eowwFfgqbMGNCHCAGCICAACAaBgAAAKGGEAACA_BeAABGPCHABA?A???A@AAIAGACAeBiACAGEGGCAMI"
+          ]
+        }
+      ]
     },
     {
-      "Name": "The Union League Club",
+      "Name": "M&M'S New York",
       "Address": {
-        "Lat": 40.749013399999995,
-        "Lon": -73.98047160000002,
-        "Street": "38 East 37th Street",
+        "Lat": 40.7600659,
+        "Lon": -73.9842963,
+        "Street": "1600 Broadway",
         "City": "New York",
         "State": "NY",
-        "Zip": "10016",
-        "PlaceName": "The Union League Club",
-        "FormattedAddress": "38 E 37th St, New York, NY 10016, USA"
+        "Zip": "10019",
+        "PlaceName": "M&M'S New York",
+        "FormattedAddress": "1600 Broadway, New York, NY 10019, USA"
       },
-      "ArrivalTimeInMinutes": 838,
-      "DepartureTimeInMinutes": 873,
-      "DurationAtStopInMinutes": 35,
-      "TransportToNextStop": 0,
-      "TravelTimeToNextStop": 14,
-      "TransitCost": 0
+      "ArrivalTimeInMinutes": 853,
+      "DepartureTimeInMinutes": 893,
+      "DurationAtStopInMinutes": 40,
+      "Legs": [
+        {
+          "TransportType": 0,
+          "TravelTimes": 10,
+          "TransitCosts": 0,
+          "Polylines": [
+            "e}wwFh`qbMuA_AH[FUjAsDn@mB|A_FBGFUFQBGCAGEGEAAlCsIBKcBiAECGEGEAABIAAaBiAL_@bA_D"
+          ]
+        }
+      ]
     },
     {
-      "Name": "The Tusk Bar",
+      "Name": "The LEGO® Store Fifth Avenue",
       "Address": {
-        "Lat": 40.7439469,
-        "Lon": -73.98697440000001,
-        "Street": "7 East 27th Street",
+        "Lat": 40.7591338,
+        "Lon": -73.9771693,
+        "Street": "636 5th Avenue",
         "City": "New York",
         "State": "NY",
-        "Zip": "10016",
-        "PlaceName": "The Tusk Bar",
-        "FormattedAddress": "7 E 27th St, New York, NY 10016, USA"
+        "Zip": "10020",
+        "PlaceName": "The LEGO® Store Fifth Avenue",
+        "FormattedAddress": "636 5th Ave, New York, NY 10020, USA"
       },
-      "ArrivalTimeInMinutes": 887,
-      "DepartureTimeInMinutes": 922,
-      "DurationAtStopInMinutes": 35,
-      "TransportToNextStop": 2,
-      "TravelTimeToNextStop": 9,
-      "TransitCost": 300
+      "ArrivalTimeInMinutes": 902,
+      "DepartureTimeInMinutes": 983,
+      "DurationAtStopInMinutes": 81,
+      "Legs": [
+        {
+          "TransportType": 0,
+          "TravelTimes": 3,
+          "TransitCosts": 0,
+          "Polylines": [
+            "gxwwFxsobMk@hB",
+            "sywwFbwobMDB",
+            "mywwFfwobMXVQr@",
+            "eywwFryobMMf@",
+            "sywwFzzobM`Af@GPXPDQn@b@",
+            "iuwwFx}obMK\\",
+            "uuwwFv~obMBRoArEUr@MJ",
+            "gywwFbhpbMnBzD"
+          ]
+        },
+        {
+          "TransportType": 2,
+          "TravelTimes": 8,
+          "TransitCosts": 300,
+          "Polylines": [
+            "wuwwF~mpbMDKxw@fh@nsBzsAfJfEfAVj@@f@E`@M^YZa@vL{Z~@aDjAqFCA"
+          ]
+        },
+        {
+          "TransportType": 0,
+          "TravelTimes": 2,
+          "TransitCosts": 0,
+          "Polylines": [
+            "ecqwFvgsbM^A",
+            "ebqwFpgsbMCQD@H_@",
+            "yaqwF`fsbMlA~@^R@ADDABdAx@z@n@",
+            "czpwFflsbMf@cB"
+          ]
+        }
+      ]
     },
     {
-      "Name": "TAO Downtown Restaurant",
+      "Name": "Momoya SoHo",
       "Address": {
-        "Lat": 40.7425376,
-        "Lon": -74.0038464,
-        "Street": "92 9th Avenue",
+        "Lat": 40.7235132,
+        "Lon": -73.9958467,
+        "Street": "47 Prince Street",
         "City": "New York",
         "State": "NY",
-        "Zip": "10011",
-        "PlaceName": "TAO Downtown Restaurant",
-        "FormattedAddress": "92 9th Ave, New York, NY 10011, USA"
+        "Zip": "10012",
+        "PlaceName": "Momoya SoHo",
+        "FormattedAddress": "47 Prince St, New York, NY 10012, USA"
       },
-      "ArrivalTimeInMinutes": 931,
-      "DepartureTimeInMinutes": 966,
-      "DurationAtStopInMinutes": 35,
-      "TransportToNextStop": 0,
-      "TravelTimeToNextStop": 0,
-      "TransitCost": 0
+      "ArrivalTimeInMinutes": 1000,
+      "DepartureTimeInMinutes": 1144,
+      "DurationAtStopInMinutes": 144,
+      "Legs": [
+        {
+          "TransportType": 0,
+          "TravelTimes": 2,
+          "TransitCosts": 0,
+          "Polylines": [
+            "{xpwFbisbMHW",
+            "qxpwFjhsbMuGkC",
+            "gaqwF~csbMOj@",
+            "yaqwFjesbMeEcC"
+          ]
+        },
+        {
+          "TransportType": 2,
+          "TravelTimes": 3,
+          "TransitCosts": 300,
+          "Polylines": [
+            "_hqwFfasbMCFqGkEwMuKk@s@q@mAk@i@e@Yy@U{O_CwA?eBJc@F"
+          ]
+        },
+        {
+          "TransportType": 0,
+          "TravelTimes": 1,
+          "TransitCosts": 0,
+          "Polylines": [
+            "u~rwFddrbMuJ`B",
+            "ujswF|grbMyByA",
+            "onswFberbMCF",
+            "snswFjerbM}ASGN",
+            "yqswFferbMKXYCQj@"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Cocoa Store",
+      "Address": {
+        "Lat": 40.7381491,
+        "Lon": -73.99034569999999,
+        "Street": "873 Broadway",
+        "City": "New York",
+        "State": "NY",
+        "Zip": "10003",
+        "PlaceName": "Cocoa Store",
+        "FormattedAddress": "873 Broadway 6th floor, New York, NY 10003, USA"
+      },
+      "ArrivalTimeInMinutes": 1153,
+      "DepartureTimeInMinutes": 1183,
+      "DurationAtStopInMinutes": 30,
+      "Legs": null
     }
   ],
   "DroppedStops": [],
-  "TotalTimeInMinutes": 71,
-  "TotalTransitCostInCents": 300,
-  "TotalCostInCents": 369,
-  "StartTimeInMinutes": 720,
-  "EndTimeInMinutes": 966,
-  "HasExitPoint": false
+  "TotalTimeInMinutes": 61,
+  "TotalTransitCostInCents": 600,
+  "TotalCostInCents": 669,
+  "StartTimeInMinutes": 668,
+  "EndTimeInMinutes": 1183
 }
